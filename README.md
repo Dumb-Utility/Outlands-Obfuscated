@@ -4,5 +4,5 @@ a [ROBLOX](https://roblox.com] script for ["The Outlands"](https://www.roblox.co
 # Current Status
 Not Released
 
-# Feature
+# Features
 REDACTED
